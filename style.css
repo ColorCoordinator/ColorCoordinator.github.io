@@ -16,3 +16,14 @@ body{
 h1.off-white{
 	color:#F2F5F7;
 }
+.navbar-default{
+	color:#FFFFFF;
+	background-color:#4571AD;
+}
+.navbar-default .navbar-nav > li > a{
+	color:#FFFFFF;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	color:#062F67;	
+}
