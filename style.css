@@ -4,3 +4,15 @@
 h1{
 
 }
+.base-color{
+	background-color: #4571AD;
+}
+body{
+	background-color: #F0F4F9;
+}
+.off-white{
+	color:#F2F5F7;
+}
+h1.off-white{
+	color:#F2F5F7;
+}
