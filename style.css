@@ -5,25 +5,25 @@ h1{
 
 }
 .base-color{
-	background-color: #4571AD;
+	background-color: #3d9b94;
 }
 body{
-	background-color: #F0F4F9;
+	background-color: #f1fbfa;
 }
 .off-white{
-	color:#F2F5F7;
+	color:#f1fbfa;
 }
 h1.off-white{
-	color:#F2F5F7;
+	color: #f1fbfa;
 }
 .navbar-default{
 	color:#FFFFFF;
-	background-color:#4571AD;
+	background-color: #28303e
 }
 .navbar-default .navbar-nav > li > a{
 	color:#FFFFFF;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-	color:#062F67;	
+	color:#67bcb6;	
 }
