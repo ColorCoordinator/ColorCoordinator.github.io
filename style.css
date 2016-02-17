@@ -4,11 +4,12 @@
 h1{
 
 }
+#jumbo{
+	background-color: #3d9b94;
+	margin:0px;
+}
 .base-color{
 	background-color: #3d9b94;
-}
-body{
-	background-color: #f1fbfa;
 }
 .off-white{
 	color:#f1fbfa;
@@ -17,8 +18,13 @@ h1.off-white{
 	color: #f1fbfa;
 }
 .navbar-default{
+	-webkit-box-shadow: 0px 0px 21px 3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 21px 3px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 21px 3px rgba(0,0,0,0.75);
 	color:#FFFFFF;
-	background-color: #28303e
+	background-color: #28303e;
+	border-color: #28303e;
+	margin:0px;
 }
 .navbar-default .navbar-nav > li > a{
 	color:#FFFFFF;
@@ -26,4 +32,8 @@ h1.off-white{
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
 	color:#67bcb6;	
+}
+.row-white-centered {
+	background-color:#ffffff;
+	text-align: center;
 }
