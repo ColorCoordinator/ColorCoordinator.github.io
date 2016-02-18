@@ -55,3 +55,7 @@ html, body{
 	height:90%;
 	padding: 10px 50px;
 }
+
+ul {
+    list-style-position: inside;    
+}
