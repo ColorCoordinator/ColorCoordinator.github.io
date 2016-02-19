@@ -39,7 +39,7 @@ html, body{
 .row-white-centered {
 	background-color:#ffffff;
 	text-align: center;
-	padding: 25px;
+	padding: 50px;
 	padding-top: 0px;
 }
 .rounded {
@@ -52,12 +52,13 @@ html, body{
 	overflow: hidden;
 }
 .full-height{
-	height:90%;
+	height:95%;
 	padding: 10px 50px;
 }
 
 ul {
-    list-style-position: inside;    
+	padding-left: 15px;
+   list-style-position: none;    
 }
 .wrapper {
 	min-height: 100%;
