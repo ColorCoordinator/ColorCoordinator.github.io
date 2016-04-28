@@ -58,7 +58,7 @@ html, body{
 
 ul {
 	padding-left: 15px;
-   list-style-position: none;    
+	list-style-position: inside;   
 }
 .wrapper {
 	min-height: 100%;
@@ -69,3 +69,4 @@ ul {
 .footer, .push {
 	height: 90px; 
 }
+
